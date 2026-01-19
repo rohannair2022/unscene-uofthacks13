@@ -1,0 +1,29 @@
+# --------------------
+# Environment variables
+# --------------------
+.env
+.env.*
+*.env
+
+# --------------------
+# macOS system files
+# --------------------
+.DS_Store
+**/.DS_Store
+
+# --------------------
+# Python virtual environments (optional but recommended)
+# --------------------
+venv/
+.env/
+.venv/
+
+# --------------------
+# Node / frontend (optional)
+# --------------------
+node_modules/
+
+# --------------------
+# Misc
+# --------------------
+*.log
